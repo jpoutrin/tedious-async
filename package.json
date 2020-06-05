@@ -39,8 +39,8 @@
     "url": "https://github.com/SyedNaqiRizvi/tedious-async/issues"
   },
   "homepage": "https://github.com/SyedNaqiRizvi/tedious-async#readme",
-  "dependencies": {
-    "tedious": "^6.1.1"
+  "peerdependencies": {
+    "tedious": ">6.1.1"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
